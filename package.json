@@ -26,8 +26,10 @@
     "connect-history-api-fallback": "^1.5.0",
     "d3": "^5.4.0",
     "d3-scale": "^2.0.0",
+    "ramda": "^0.25.0",
     "react": "^16.3.2",
     "react-dom": "^16.3.2",
+    "recompose": "^0.27.1",
     "styled-components": "^3.2.6",
     "webpack": "^3.10.0"
   },
